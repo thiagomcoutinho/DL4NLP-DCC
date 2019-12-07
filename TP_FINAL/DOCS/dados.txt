@@ -1,0 +1,32 @@
+ DATASET:
+ 
+ AUDIO: (10:31:36)
+    https://librivox.org/
+    https://librivox.org/a-reliquia-by-jose-maria-de-eca-de-queiros/
+ TEXTO:
+    https://www.gutenberg.org/wiki/PT_Principal
+    https://www.gutenberg.org/ebooks/17515.txt.utf-8
+ 
+ PROGRAMA ALINHAMENTO:
+    Viterbi
+    https://en.wikipedia.org/wiki/Viterbi_algorithm
+    
+ ITERAÇÕES:
+    956k
+
+ AUDIOS DE TESTE:
+    https://librivox.org/cartas-de-inglaterra-by-jose-maria-de-eca-de-queiros/
+    https://librivox.org/contos-by-jose-maria-de-eca-de-queiros/
+    https://librivox.org/o-defunto-by-jose-maria-de-eca-de-queiros/
+    
+    ÉPOCA: 2834
+    
+    
+ ESTATISTICAS DATASET
+    
+    MEDIA: 5.30s
+    MIN: 4.0s
+    MAX: 14.28s
+    DURAÇÃO TOTAL FINAL: 7h 57min
+    
+    

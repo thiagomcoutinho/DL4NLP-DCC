@@ -1,0 +1,96 @@
+\begin{thebibliography}{10}
+
+\bibitem{melgan}
+Kundan Kumar, Rithesh Kumar, Thibault de~Boissiere, Lucas Gestin, Wei~Zhen
+  Teoh, Jose Sotelo, Alexandre de~Brebisson, Yoshua Bengio, and Aaron
+  Courville,
+\newblock ``Melgan: Generative adversarial networks for conditional waveform
+  synthesis,'' 2019.
+
+\bibitem{wavenet}
+A{\"{a}}ron van~den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol
+  Vinyals, Alex Graves, Nal Kalchbrenner, Andrew~W. Senior, and Koray
+  Kavukcuoglu,
+\newblock ``Wavenet: {A} generative model for raw audio,''
+\newblock {\em CoRR}, vol. abs/1609.03499, 2016.
+
+\bibitem{tacotron2}
+Jonathan Shen, Ruoming Pang, Ron~J. Weiss, Mike Schuster, Navdeep Jaitly,
+  Zongheng Yang, Zhifeng Chen, Yu~Zhang, Yuxuan Wang, Rj~Skerrv-Ryan, and
+  et~al.,
+\newblock ``Natural tts synthesis by conditioning wavenet on mel spectrogram
+  predictions,''
+\newblock {\em 2018 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, Apr 2018.
+
+\bibitem{wavernn}
+Nal Kalchbrenner, Erich Elsen, Karen Simonyan, Seb Noury, Norman Casagrande,
+  Edward Lockhart, Florian Stimberg, Aaron van~den Oord, Sander Dieleman, and
+  Koray Kavukcuoglu,
+\newblock ``Efficient neural audio synthesis,'' 2018.
+
+\bibitem{clarinet}
+Wei Ping, Kainan Peng, and Jitong Chen,
+\newblock ``Clarinet: Parallel wave generation in end-to-end text-to-speech,''
+  2018.
+
+\bibitem{parallelwavenet}
+Aaron van~den Oord, Yazhe Li, Igor Babuschkin, Karen Simonyan, Oriol Vinyals,
+  Koray Kavukcuoglu, George van~den Driessche, Edward Lockhart, Luis~C. Cobo,
+  Florian Stimberg, Norman Casagrande, Dominik Grewe, Seb Noury, Sander
+  Dieleman, Erich Elsen, Nal Kalchbrenner, Heiga Zen, Alex Graves, Helen King,
+  Tom Walters, Dan Belov, and Demis Hassabis,
+\newblock ``Parallel wavenet: Fast high-fidelity speech synthesis,'' 2017.
+
+\bibitem{WaveGLOW}
+Ryan Prenger, Rafael Valle, and Bryan Catanzaro,
+\newblock ``Waveglow: {A} flow-based generative network for speech synthesis,''
+\newblock {\em CoRR}, vol. abs/1811.00002, 2018.
+
+\bibitem{checkerboard-artifacts}
+Augustus Odena, Vincent Dumoulin, and Chris Olah,
+\newblock ``Deconvolution and checkerboard artifacts,''
+\newblock {\em Distill}, 2016.
+
+\bibitem{weightnorm}
+Tim Salimans and Diederik~P. Kingma,
+\newblock ``Weight normalization: A simple reparameterization to accelerate
+  training of deep neural networks,'' 2016.
+
+\bibitem{librivox}
+LibriVox,
+\newblock ``https://librivox.org/,'' .
+
+\bibitem{gutenberg}
+Projeto Gutenberg,
+\newblock ``https://www.gutenberg.org/wiki/pt\_principal,'' .
+
+\bibitem{reliquia}
+A~Reliquia,
+\newblock ``https://librivox.org/a-reliquia-by-jose-maria-de-eca-de-queiros/,''
+  .
+
+\bibitem{reliquia-text}
+A~Reliquia(texto),
+\newblock ``https://www.gutenberg.org/wiki/pt\_principal,'' .
+
+\bibitem{ljspeech}
+LJSPEECH,
+\newblock ``https://keithito.com/lj-speech-dataset/,'' .
+
+\bibitem{inglaterra}
+Eça de~Queirós Cartas~de Inglaterra,
+\newblock
+  ``https://librivox.org/cartas-de-inglaterra-by-jose-maria-de-eca-de-queiros/,''
+  .
+
+\bibitem{contos}
+Eça de~Queirós Contos,
+\newblock ``https://librivox.org/contos-by-jose-maria-de-eca-de-queiros/,'' .
+
+\bibitem{defunto}
+Eça de~Queirós O~defunto,
+\newblock ``https://librivox.org/o-defunto-by-jose-maria-de-eca-de-queiros/,''
+  .
+
+\end{thebibliography}
